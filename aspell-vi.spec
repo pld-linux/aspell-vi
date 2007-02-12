@@ -1,5 +1,5 @@
 Summary:	Vietnamese dictionary for aspell
-Summary(pl):	S≥ownik wietnamski dla aspella
+Summary(pl.UTF-8):   S≈Çownik wietnamski dla aspella
 Name:		aspell-vi
 Version:	0.01.1
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Vietnamese dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik wietnamski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik wietnamski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-vi-%{version}-%{subv}
