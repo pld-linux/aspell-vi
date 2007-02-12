@@ -1,5 +1,5 @@
 Summary:	Vietnamese dictionary for aspell
-Summary(pl.UTF-8):   Słownik wietnamski dla aspella
+Summary(pl.UTF-8):	Słownik wietnamski dla aspella
 Name:		aspell-vi
 Version:	0.01.1
 %define	subv	1
