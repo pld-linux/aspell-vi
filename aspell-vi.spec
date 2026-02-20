@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik wietnamski dla aspella
 Name:		aspell-vi
 Version:	0.01.1
 %define	subv	1
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
